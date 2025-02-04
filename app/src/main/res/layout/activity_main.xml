@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="00"
-        android:textSize="300sp"
+        android:textSize="120sp"
         android:textColor="#FF0000"
         android:layout_margin="80dp"
         android:fontFamily="@font/digital_7"/>
@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="00"
-        android:textSize="300sp"
+        android:textSize="120sp"
         android:textColor="#FF0000"
         android:layout_margin="80dp"
         android:fontFamily="@font/digital_7"/>
